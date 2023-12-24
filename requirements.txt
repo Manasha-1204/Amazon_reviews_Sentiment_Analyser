@@ -1,7 +1,0 @@
-streamlit
-nltk
-numpy
-pandas
-pickle
-re
-plotly
