@@ -1,6 +1,10 @@
 # Amazon Reviews Sentiment Analyser
 
-😍😑😭
+## <span style="font-size:larger;">😍</span><span style="font-size:larger;">😑</span><span style="font-size:larger;">😭</span>
+
+<p align="center">
+  <img src="https://github.com/Manasha-1204/Amazon_reviews_Sentiment_Analyser/blob/main/wordcloud.png" width="500" title="hover text", align="left">
+</p>
 
 ## Overview
 
@@ -51,6 +55,3 @@ This project focuses on sentiment analysis using machine learning and natural la
     ```bash
     streamlit run review_analyzer.py
     ```
-
-
-
